@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Eduardo de Souza de Oliveira and my nickname is "Dudu"!
 
-###Student at USCS - Computer Science (1/8)
+### Student at USCS - Computer Science (1/8)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Souza-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardosouzao)](https://www.linkedin.com/in/eduardosouzao) 
 [![Gmail Badge](https://img.shields.io/badge/-eduardo.soliveira2505@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:eduardo.soliveira2505@gmail.com)
